@@ -1,0 +1,77 @@
+{
+    "name": "TechAtLast",
+    "description": "<p>TechAtLast is #1 Africa's gateway to the world of blockchain technology and science discoveries, business news and events reporting. We cover in-depth reporting on disruptive technologies and solutions such as blockchain technologies.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28389-techatlast-com.jpg",
+    "tags": [
+        "broadcasts",
+        "have api",
+        "tech blog"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/techatlast\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TechAtLast",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28389-techatlast-com.jpg",
+            "humanURL": "https:\/\/techatlast.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/techatlast-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/techatlast-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/techatlast"
+        },
+        {
+            "type": "Email",
+            "url": "editor@techatlast.com"
+        },
+        {
+            "type": "Email",
+            "url": "hints@techatlast.com"
+        },
+        {
+            "type": "Email",
+            "url": "marketing@techatlast.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@techatlast.com"
+        },
+        {
+            "type": "Email",
+            "url": "abuse@techatlast.com"
+        },
+        {
+            "type": "Email",
+            "url": "copyright@techatlast.com"
+        },
+        {
+            "type": "Email",
+            "url": "terms@techatlast.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/TECHATLAST"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/techatlast.com"
+        }
+    ]
+}
